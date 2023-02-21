@@ -1,5 +1,5 @@
 # to be countinued ....
-https://tenor.com/bQ6Vf.gif
+[https://tenor.com/bQ6Vf.gif](https://tenor.com/view/scaler-create-impact-dog-coding-programming-gif-25011983)
 
 <h1 align="center">Hi 👋, I'm Julia Kulyk</h1>
 
