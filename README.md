@@ -1,6 +1,6 @@
 # to be countinued ....
-![image](https://user-images.githubusercontent.com/111606883/220433818-4a530454-7ea6-40eb-a4dd-2426a2b2a313.png)
-
+[![image](https://user-images.githubusercontent.com/111606883/220433818-4a530454-7ea6-40eb-a4dd-2426a2b2a313.png)
+](https://camo.githubusercontent.com/f03c9decfec87eec3676f239e67323c5d986634c87408b80b1282047e4b00dd6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4468357130735368786770313344777276472f67697068792e676966)
 
 <h1 align="center">Hi 👋, I'm Julia Kulyk</h1>
 
