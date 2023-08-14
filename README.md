@@ -6,7 +6,7 @@
 
 <h3 align="left">My Projects</h3>
 <ul align="left">
-<li text="Your pet"><a href="https://olenanov.github.io/project-FunDevs6/" target="blank"><img align="center" alt="yuliia kulyk" height="30" width="40" /></a></li>
+<li text="Your pet"><a href="https://olenanov.github.io/project-FunDevs6/" target="blank"><img align="center" alt="Your pet"/></a></li>
 </p>
 
 <h3 align="left">Based in US :us:</h3>
