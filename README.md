@@ -2,9 +2,8 @@
 ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4468357130735368786770313344777276472f67697068792e676966](https://user-images.githubusercontent.com/111606883/220447999-3f669bac-83da-424d-8be7-82b7e310fe15.gif)
 
 
-<h1 align="center">Hi 👋, I'm Julia Kulyk
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US.
-</h1>
+<h1 align="center">Hi there👋</h1>
+<h2>I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from US.</h2>
 
 
 <h3 align="left">How to connect with me:</h3>
